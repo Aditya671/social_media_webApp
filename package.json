@@ -1,0 +1,24 @@
+{
+  "name": "social_media_web_app",
+  "version": "1.0.1",
+  "description": "Social Media Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya671/social_media_webApp.git"
+  },
+  "keywords": [
+    "Social",
+    "Media",
+    "NodeJs-React-App"
+  ],
+  "author": "Aditya671",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya671/social_media_webApp/issues"
+  },
+  "homepage": "https://github.com/Aditya671/social_media_webApp#readme"
+}
